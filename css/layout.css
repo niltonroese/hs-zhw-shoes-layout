@@ -59,3 +59,16 @@
   grid-column-end: 4;
 }
 
+.wrapper {
+  margin: 0, auto;
+}
+
+.border_right {
+  float: left;
+  width: 33.3%;
+  padding-left: 20px;
+}
+
+.footer {
+  clear: both;
+}
